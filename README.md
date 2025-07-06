@@ -1,1 +1,1 @@
-# PythonApplication3
+Bu proje, TensorFlow ve Keras kullanarak CSV formatındaki bir veri seti üzerinde sınıflandırma yapmak amacıyla hazırlanmıştır. Projede temel bir yapay sinir ağı modeli oluşturularak veri eğitilmiş ve doğruluk oranları ölçülmüştür.
